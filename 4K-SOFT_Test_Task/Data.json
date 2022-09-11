@@ -1,0 +1,44 @@
+[
+  {
+    "isLocked": 0,
+    "doorsPlacement": "Home",
+    "doorsImage": "image1",
+    "doorsName": "Front Door"
+  },
+  {
+    "isLocked": 0,
+    "doorsPlacement": "Office",
+    "doorsImage": "image2",
+    "doorsName": "Front Door"
+  },
+  {
+    "isLocked": 0,
+    "doorsPlacement": "Home",
+    "doorsImage": "image1",
+    "doorsName": "Front Door"
+  },
+  {
+    "isLocked": 0,
+    "doorsPlacement": "Home",
+    "doorsImage": "image1",
+    "doorsName": "Front Door"
+  },
+  {
+    "isLocked": 0,
+    "doorsPlacement": "Home",
+    "doorsImage": "image1",
+    "doorsName": "Front Door"
+  },
+  {
+    "isLocked": 0,
+    "doorsPlacement": "Home",
+    "doorsImage": "image1",
+    "doorsName": "Front Door"
+  },
+  {
+    "isLocked": 0,
+    "doorsPlacement": "Home",
+    "doorsImage": "image1",
+    "doorsName": "Front Door"
+  }
+]
